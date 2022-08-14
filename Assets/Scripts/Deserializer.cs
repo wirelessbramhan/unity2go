@@ -4,7 +4,7 @@ using UnityEngine;
 
 [System.Serializable]
 public class Deserializer 
-{
+{   // Data types and Classes declared for handling Request deserialization 
     public bool hide_in_customer_history;
     public object registered_entities;
     public string whiteboard_template;
