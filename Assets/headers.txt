@@ -1,0 +1,12 @@
+'https://test.iamdave.ai/conversation/exhibit_aldo/74710c52-42a5-3e65-b1f0-2dc39ebe42c2' \
+--header 'Content-Type: application/json' \
+--header 'X-I2CE-ENTERPRISE-ID: dave_expo' \
+--header 'X-I2CE-USER-ID: 74710c52-42a5-3e65-b1f0-2dc39ebe42c2' \
+--header 'X-I2CE-API-KEY: NzQ3MTBjNTItNDJhNS0zZTY1LWIxZjAtMmRjMzllYmU0MmMyMTYwNzIyMDY2NiAzNw__' \
+
+--data-raw '{
+"system_response" : "sr_init",
+"engagement_id":
+"NzQ3MTBjNTItNDJhNS0zZTY1LWIxZjAtMmRjMzllYmU0MmMyZXhoaWJpdF9hbGRv",
+"customer_state" : "cs_men_products"
+}

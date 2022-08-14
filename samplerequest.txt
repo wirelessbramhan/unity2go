@@ -1,0 +1,44 @@
+{ "hide_in_customer_history": false,
+"registered_entities": null,
+"whiteboard_template": "file",
+"customer_state": "cs_men_products",
+"placeholder_aliases": {},
+"show_feedback": true,
+"to_state_function": {
+"function": "_function_find_customer_state" },
+"placeholder": "Alright, heres some products for men from the collection. With
+lightweight designs and comfortable fittings, they make sure that the style quotient
+never drops down.",
+"show_in_history": true,
+"data": { "slideshow": [ { "image": "http://d3chc9d4ocbi4o.cloudfront.net/conversations/aldo/MT1.jpg", "caption": "MF1" },
+{ "image": "http://d3chc9d4ocbi4o.cloudfront.net/conversations/aldo/MT2.jpg", "caption": "MF2" },
+{ "image": "http://d3chc9d4ocbi4o.cloudfront.net/conversations/aldo/MT3.jpg", "caption": "MF3" } ] },
+"overwrite_whiteboard": true,
+"start_timestamp": "2022-03-17 10:23:40.421498+00:00",
+"console": "",
+"name": "sr_men_footwear_slideshow",
+"title": "Men's Products",
+"response_channels": { "voice": "https://test.iamdave.ai/static/uploads/dave_expo/conversations/exhibit_aldo/1ef107d
+7-c3f6-3649-9cfb-b5523411cd70/voice.wav", "frames": "https://test.iamdave.ai/static/uploads/dave_expo/conversations/exhibit_aldo/1ef107d7-c3f6-3649-9cfb-b5523411cd70/frames.csv",
+"shapes":
+"https://test.iamdave.ai/static/uploads/dave_expo/conversations/exhibit_aldo/1ef107d
+7-c3f6-3649-9cfb-b5523411cd70/shapes.csv"
+},
+"state_options": {
+"cs_top_three": "Top 3",
+"cs_must_have": "Must haves",
+"cs_enquiry": "Place enquiry",
+"cs_mt1": "MT1",
+"cs_mt2": "MT2",
+"cs_mt3": "MT3"
+},
+"response_id": "382d2661-61c0-3044-ab23-9290c89668a1",
+"whiteboard_title": "Men's Products",
+"timestamp": "2022-03-17 10:23:40.898538+00:00",
+"maintain_whiteboard": true,
+"wait": 10000,
+"type": "text",
+"options": null,
+"engagement_id":
+"NzQ3MTBjNTItNDJhNS0zZTY1LWIxZjAtMmRjMzllYmU0MmMyZXhoaWJpdF9hbGRv"
+}
